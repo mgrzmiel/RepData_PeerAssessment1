@@ -1,6 +1,6 @@
 # Course #5
 # Author: Magdalena Grzmiel
-
+ 
 install.packages("data.table")
 library(data.table)
 
